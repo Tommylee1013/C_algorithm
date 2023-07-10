@@ -18,7 +18,7 @@ int med3(int a, int b, int c){
     else
         return b;
 }
-
+/*
 int main(void){
     int a, b, c;
 
@@ -31,3 +31,4 @@ int main(void){
 
     return 0;
 }
+ */

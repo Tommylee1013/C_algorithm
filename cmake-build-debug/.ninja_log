@@ -1,11 +1,17 @@
 # ninja log v5
-0	35	1688966488499492588	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-1.c.o	1ce8679fcc79c48d
-0	165	1688966704345516323	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q1.c.o	4f57413491a117e5
-0	32	1688966733515759693	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q2.c.o	74b51d5c92e70e0a
-0	35	1688966488499947284	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-2.c.o	c49eb18c9056b905
-32	65	1688966733549517247	C_algorithm	4c74c4c84447aa1f
 1	174	1688967549509856937	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q1.c.o	4f57413491a117e5
+0	304	1688998562514445827	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o	ee22ad8422fba90a
 0	174	1688967549509857770	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-2.c.o	c49eb18c9056b905
+0	247	1689004197914592955	CMakeFiles/C_algorithm.dir/Chapter_2/intary.c.o	4fdcb421980e003a
 1	174	1688967549509859895	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q2.c.o	74b51d5c92e70e0a
-2	174	1688967549510527044	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o	ee22ad8422fba90a
-174	225	1688967549565735148	C_algorithm	70e4294e08433032
+1	236	1688999059232174951	CMakeFiles/C_algorithm.dir/Chapter_1/sum_while.c.o	f175661bf862491b
+1	253	1689004197923292013	CMakeFiles/C_algorithm.dir/Chapter_2/intary_init.c.o	588d4e138827dcc1
+0	236	1688999763284123007	CMakeFiles/C_algorithm.dir/Chapter_1/sum_for.c.o	3643c9eda2fa6285
+0	267	1689000387542073138	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.c.o	458e0cafca29e0b5
+253	300	1689004197970097747	C_algorithm	325f39d44a85557d
+1	276	1689001637760081242	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q9.c.o	4cc244da555d9c5f
+1	248	1689002910304093055	CMakeFiles/C_algorithm.dir/Chapter_1/dbl_digits.c.o	189f387d96bd68fe
+0	50	1689003661473630756	CMakeFiles/C_algorithm.dir/Chapter_1/multi99table.c.o	90d5a3834d132e8e
+1	245	1688999763295369832	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.cpp.o	aa81381085e37796
+0	35	1688966488499492588	CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-1.c.o	1ce8679fcc79c48d
+1	262	1689002549381813639	CMakeFiles/C_algorithm.dir/Chapter_1/sum_for_pos.c.o	57e062e92608b8e4

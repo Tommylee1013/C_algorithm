@@ -79,6 +79,60 @@ build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o: C_COMPILER__C_algori
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
 
+build CMakeFiles/C_algorithm.dir/Chapter_1/sum_while.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 1/sum_while.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/sum_while.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+
+build CMakeFiles/C_algorithm.dir/Chapter_1/sum_for.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 1/sum_for.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/sum_for.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+
+build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1-Q8.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+
+build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q9.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1-Q9.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q9.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+
+build CMakeFiles/C_algorithm.dir/Chapter_1/sum_for_pos.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 1/sum_for_pos.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/sum_for_pos.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+
+build CMakeFiles/C_algorithm.dir/Chapter_1/dbl_digits.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 1/dbl_digits.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/dbl_digits.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+
+build CMakeFiles/C_algorithm.dir/Chapter_1/multi99table.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 1/multi99table.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/multi99table.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+
+build CMakeFiles/C_algorithm.dir/Chapter_2/intary.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 2/intary.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/intary.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+
+build CMakeFiles/C_algorithm.dir/Chapter_2/intary_init.c.o: C_COMPILER__C_algorithm_Debug /Users/tommylee/Desktop/CLion/C_algorithm/Chapter$ 2/intary_init.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/intary_init.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_algorithm
@@ -87,7 +141,7 @@ build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o: C_COMPILER__C_algori
 #############################################
 # Link the executable C_algorithm
 
-build C_algorithm: C_EXECUTABLE_LINKER__C_algorithm_Debug CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-2.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q2.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o
+build C_algorithm: C_EXECUTABLE_LINKER__C_algorithm_Debug CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-2.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q2.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_while.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_for.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q9.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_for_pos.c.o CMakeFiles/C_algorithm.dir/Chapter_1/dbl_digits.c.o CMakeFiles/C_algorithm.dir/Chapter_1/multi99table.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intary.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intary_init.c.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   POST_BUILD = :
