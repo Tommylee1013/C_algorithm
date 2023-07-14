@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 #define N 5
+/*
 int main(void) {
     int i;
     int a[N] = {1,2,3,4,5};
@@ -17,3 +18,4 @@ int main(void) {
 
     return 0;
 }
+*/
