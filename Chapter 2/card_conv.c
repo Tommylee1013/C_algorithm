@@ -15,7 +15,7 @@ int card_convr(unsigned x, int n, char d[]){
         }
     return digits;
 }
-
+/*
 int main(void) {
     int i;
     unsigned no;
@@ -39,4 +39,4 @@ int main(void) {
     }while(retry == 1);
 
     return 0;
-}
+} */
