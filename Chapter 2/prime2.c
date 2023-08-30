@@ -2,7 +2,7 @@
 // Created by Junghun Lee on 2023/07/18.
 //
 #include <stdio.h>
-
+/*
 int main(void){
     int i, n;
     int prime[500];
@@ -22,3 +22,4 @@ int main(void){
 
     return 0;
 }
+ */
