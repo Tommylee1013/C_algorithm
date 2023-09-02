@@ -9,4 +9,5 @@ add_executable(C_algorithm
         "Chapter 2/physical.c"
         "Chapter 3/ssearch1.c"
         "Chapter 3/ssearch1.c"
+        "Chapter 3/ssearch2.c"
 )

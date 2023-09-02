@@ -1,19 +1,16 @@
 //
-// Created by Junghun Lee on 2023/08/30.
+// Created by Junghun Lee on 2023/09/01.
 //
 #include <stdio.h>
 #include <stdlib.h>
 
 int search(const int a[], int n, int key){
-    int i = 0;
-    while(1){
-        if(i == n) return -1;
-        if(a[i] == key) return i;
-        i++;
-    }
+    int i;
+    for(i = 0; i < n; i++){
+        if (a[i] == key) return i;
+    } return -1;
 }
 
-/*
 int main(void){
     int i, nx, ky, idx;
     int *x;
@@ -30,4 +27,3 @@ int main(void){
     free(x);
     return 0;
 }
-*/
