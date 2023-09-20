@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 #include <stdlib.h>
-
+/*
 int search(const int a[], int n, int key){
     int i = 0;
     while(1){
@@ -12,7 +12,7 @@ int search(const int a[], int n, int key){
         i++;
     }
 }
-
+*/
 /*
 int main(void){
     int i, nx, ky, idx;
