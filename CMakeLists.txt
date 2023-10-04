@@ -11,4 +11,6 @@ add_executable(C_algorithm
         "Chapter 3/ssearch1.c"
         "Chapter 3/ssearch2.c"
         "Chapter 3/search_sen.c"
-        "Chapter 3/bin_search.c")
+        "Chapter 3/bin_search.c"
+        "Chapter 3/bsearch1.c"
+        "Chapter 3/bsearch2.c")

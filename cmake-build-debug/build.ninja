@@ -51,189 +51,267 @@ build cmake_object_order_depends_target_C_algorithm: phony || CMakeFiles/C_algor
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-1.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1-1.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-1.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-2.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1-2.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-2.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q1.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1-Q1.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q1.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q2.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1-Q2.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q2.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1C-1.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/sum_while.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/sum_while.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/sum_while.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/sum_for.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/sum_for.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/sum_for.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1-Q8.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q9.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/Chapter1-Q9.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q9.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/sum_for_pos.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/sum_for_pos.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/sum_for_pos.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/dbl_digits.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/dbl_digits.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/dbl_digits.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_1/multi99table.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 1/multi99table.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_1/multi99table.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_1
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/intary.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/intary.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/intary.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/intary_init.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/intary_init.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/intary_init.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/intdynamic.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/intdynamic.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/intdynamic.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/intary_dynamic.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/intary_dynamic.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/intary_dynamic.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/ary_max.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/ary_max.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/ary_max.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/ary_max_rand.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/ary_max_rand.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/ary_max_rand.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/rev_ary.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/rev_ary.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/rev_ary.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/card_conv.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/card_conv.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/card_conv.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/Chapter2-Q1.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/Chapter2-Q1.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/Chapter2-Q1.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/Chapter2-Q2.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/Chapter2-Q2.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/Chapter2-Q2.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/Chapter3-Q3.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/Chapter3-Q3.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/Chapter3-Q3.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/prime1.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/prime1.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/prime1.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/prime2.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/prime2.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/prime2.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/dayofyear.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/dayofyear.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/dayofyear.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_2/physical.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 2/physical.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_2/physical.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_2
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_3/ssearch1.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 3/ssearch1.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_3/ssearch1.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_3
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_3/ssearch2.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 3/ssearch2.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_3/ssearch2.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_3
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_3/search_sen.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 3/search_sen.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_3/search_sen.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_3
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 build CMakeFiles/C_algorithm.dir/Chapter_3/bin_search.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 3/bin_search.c || cmake_object_order_depends_target_C_algorithm
   DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_3/bin_search.c.o.d
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_3
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
+
+build CMakeFiles/C_algorithm.dir/Chapter_3/bsearch1.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 3/bsearch1.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_3/bsearch1.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_3
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
+
+build CMakeFiles/C_algorithm.dir/Chapter_3/bsearch2.c.o: C_COMPILER__C_algorithm_unscanned_Debug /Users/junghunlee/Desktop/CLion/C_algorithm/Chapter$ 3/bsearch2.c || cmake_object_order_depends_target_C_algorithm
+  DEP_FILE = CMakeFiles/C_algorithm.dir/Chapter_3/bsearch2.c.o.d
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C_algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/C_algorithm.dir/Chapter_3
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
+  TARGET_PDB = C_algorithm.pdb
 
 
 # =============================================================================
@@ -243,13 +321,14 @@ build CMakeFiles/C_algorithm.dir/Chapter_3/bin_search.c.o: C_COMPILER__C_algorit
 #############################################
 # Link the executable C_algorithm
 
-build C_algorithm: C_EXECUTABLE_LINKER__C_algorithm_Debug CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-2.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q2.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_while.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_for.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q9.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_for_pos.c.o CMakeFiles/C_algorithm.dir/Chapter_1/dbl_digits.c.o CMakeFiles/C_algorithm.dir/Chapter_1/multi99table.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intary.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intary_init.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intdynamic.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intary_dynamic.c.o CMakeFiles/C_algorithm.dir/Chapter_2/ary_max.c.o CMakeFiles/C_algorithm.dir/Chapter_2/ary_max_rand.c.o CMakeFiles/C_algorithm.dir/Chapter_2/rev_ary.c.o CMakeFiles/C_algorithm.dir/Chapter_2/card_conv.c.o CMakeFiles/C_algorithm.dir/Chapter_2/Chapter2-Q1.c.o CMakeFiles/C_algorithm.dir/Chapter_2/Chapter2-Q2.c.o CMakeFiles/C_algorithm.dir/Chapter_2/Chapter3-Q3.c.o CMakeFiles/C_algorithm.dir/Chapter_2/prime1.c.o CMakeFiles/C_algorithm.dir/Chapter_2/prime2.c.o CMakeFiles/C_algorithm.dir/Chapter_2/dayofyear.c.o CMakeFiles/C_algorithm.dir/Chapter_2/physical.c.o CMakeFiles/C_algorithm.dir/Chapter_3/ssearch1.c.o CMakeFiles/C_algorithm.dir/Chapter_3/ssearch2.c.o CMakeFiles/C_algorithm.dir/Chapter_3/search_sen.c.o CMakeFiles/C_algorithm.dir/Chapter_3/bin_search.c.o
-  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
+build C_algorithm: C_EXECUTABLE_LINKER__C_algorithm_Debug CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-2.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q2.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1C-1.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_while.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_for.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q8.c.o CMakeFiles/C_algorithm.dir/Chapter_1/Chapter1-Q9.c.o CMakeFiles/C_algorithm.dir/Chapter_1/sum_for_pos.c.o CMakeFiles/C_algorithm.dir/Chapter_1/dbl_digits.c.o CMakeFiles/C_algorithm.dir/Chapter_1/multi99table.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intary.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intary_init.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intdynamic.c.o CMakeFiles/C_algorithm.dir/Chapter_2/intary_dynamic.c.o CMakeFiles/C_algorithm.dir/Chapter_2/ary_max.c.o CMakeFiles/C_algorithm.dir/Chapter_2/ary_max_rand.c.o CMakeFiles/C_algorithm.dir/Chapter_2/rev_ary.c.o CMakeFiles/C_algorithm.dir/Chapter_2/card_conv.c.o CMakeFiles/C_algorithm.dir/Chapter_2/Chapter2-Q1.c.o CMakeFiles/C_algorithm.dir/Chapter_2/Chapter2-Q2.c.o CMakeFiles/C_algorithm.dir/Chapter_2/Chapter3-Q3.c.o CMakeFiles/C_algorithm.dir/Chapter_2/prime1.c.o CMakeFiles/C_algorithm.dir/Chapter_2/prime2.c.o CMakeFiles/C_algorithm.dir/Chapter_2/dayofyear.c.o CMakeFiles/C_algorithm.dir/Chapter_2/physical.c.o CMakeFiles/C_algorithm.dir/Chapter_3/ssearch1.c.o CMakeFiles/C_algorithm.dir/Chapter_3/ssearch2.c.o CMakeFiles/C_algorithm.dir/Chapter_3/search_sen.c.o CMakeFiles/C_algorithm.dir/Chapter_3/bin_search.c.o CMakeFiles/C_algorithm.dir/Chapter_3/bsearch1.c.o CMakeFiles/C_algorithm.dir/Chapter_3/bsearch2.c.o
+  FLAGS = -g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
   OBJECT_DIR = CMakeFiles/C_algorithm.dir
   POST_BUILD = :
   PRE_LINK = :
+  TARGET_COMPILE_PDB = CMakeFiles/C_algorithm.dir/
   TARGET_FILE = C_algorithm
-  TARGET_PDB = C_algorithm.dbg
+  TARGET_PDB = C_algorithm.pdb
 
 
 #############################################
@@ -294,14 +373,14 @@ build all: phony C_algorithm
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/UnixPaths.cmake /Users/junghunlee/Desktop/CLion/C_algorithm/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeCXXCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCCompilerABI.c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCXXCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeFindBinUtils.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystem.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/LCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Tasking-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Internal/FeatureTesting.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Determine-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/UnixPaths.cmake /Users/junghunlee/Desktop/CLion/C_algorithm/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeCXXCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/UnixPaths.cmake /Users/junghunlee/Desktop/CLion/C_algorithm/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeCXXCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake: phony
+build /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCCompilerABI.c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCXXCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeFindBinUtils.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystem.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/LCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Tasking-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Internal/FeatureTesting.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Determine-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/UnixPaths.cmake /Users/junghunlee/Desktop/CLion/C_algorithm/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeCXXCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake: phony
 
 
 #############################################

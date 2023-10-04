@@ -15,7 +15,7 @@ int bin_search(const int a[], int n, int key){
     }while(pl <= pr);
     return -1;
 }
-
+/*
 int main(void){
     int i, nx, ky, idx;
     int *x;
@@ -38,3 +38,4 @@ int main(void){
 
     return 0;
 }
+ */
