@@ -73,7 +73,10 @@
 				29,
 				30,
 				31,
-				32
+				32,
+				33,
+				34,
+				35
 			]
 		}
 	],
@@ -138,7 +141,17 @@
 				29,
 				30,
 				31,
-				32
+				32,
+				33,
+				34,
+				35
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				36
 			]
 		}
 	],
@@ -341,6 +354,29 @@
 			"compileGroupIndex" : 0,
 			"path" : "Chapter 3/bsearch2.c",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Chapter 3/kuku.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Chapter 3/bsearch3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Chapter 4/IntStack.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Chapter 4/IntStack.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
