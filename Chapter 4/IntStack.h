@@ -1,7 +1,7 @@
 //
 // Created by Junghun Lee on 10/6/23.
 //
-
+/*
 #ifndef C_ALGORITHM_INTSTACK_H
 #define C_ALGORITHM_INTSTACK_H
 
@@ -26,3 +26,4 @@ void Print(const IntStack *s);
 void Terminate(IntStack *s);
 
 #endif //C_ALGORITHM_INTSTACK_H
+*/

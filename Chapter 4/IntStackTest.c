@@ -3,7 +3,7 @@
 //
 #include "IntStack.h"
 #include <stdio.h>
-
+/*
 int main(void) {
     IntStack s;
     if(Initialize(&s, 64) == -1){
@@ -40,3 +40,4 @@ int main(void) {
     Terminate(&s);
     return 0;
 }
+*/

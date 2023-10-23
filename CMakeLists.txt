@@ -17,4 +17,4 @@ add_executable(C_algorithm
         "Chapter 3/kuku.c"
         "Chapter 3/bsearch3.c"
         "Chapter 4/IntStack.c"
-        "Chapter 4/IntStack.h" "Chapter 4/IntStackTest.c")
+        "Chapter 4/IntStack.h" "Chapter 4/IntStackTest.c" "Chapter 4/IntQueue.c" "Chapter 4/IntQueue.h" "Chapter 4/IntQueueTest.c")

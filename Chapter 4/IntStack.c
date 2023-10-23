@@ -5,7 +5,7 @@
 #include "IntStack.h"
 #include <stdio.h>
 #include <stdlib.h>
-
+/*
 // 초기화 함수 Initialize
 int Initialize(IntStack *s, int max){
     s -> ptr = 0;
@@ -73,3 +73,4 @@ void Terminate(IntStack *s){
     if (s-> stk != NULL) free(s->stk);
     s->max = s->ptr = 0;
 }
+*/
