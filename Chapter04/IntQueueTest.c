@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 #include "IntQueue.h"
-
+/*
 int main(void) {
     IntQueue que;
 
@@ -46,3 +46,4 @@ int main(void) {
     Terminate(&que);
     return 0;
 }
+ */

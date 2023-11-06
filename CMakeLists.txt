@@ -4,17 +4,21 @@ project(C_algorithm)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(C_algorithm
-        "Chapter 1/Chapter1-1.c" "Chapter 1/Chapter1-2.c" "Chapter 1/Chapter1-Q1.c" "Chapter 1/Chapter1-Q2.c" "Chapter 1/Chapter1C-1.c" "Chapter 1/sum_while.c" "Chapter 1/sum_for.c" "Chapter 1/Chapter1-Q8.c" "Chapter 1/Chapter1-Q9.c" "Chapter 1/sum_for_pos.c" "Chapter 1/dbl_digits.c" "Chapter 1/multi99table.c" "Chapter 2/intary.c" "Chapter 2/intary_init.c" "Chapter 2/intdynamic.c" "Chapter 2/intary_dynamic.c" "Chapter 2/ary_max.c" "Chapter 2/ary_max_rand.c" "Chapter 2/rev_ary.c" "Chapter 2/card_conv.c" "Chapter 2/Chapter2-Q1.c" "Chapter 2/Chapter2-Q2.c" "Chapter 2/Chapter3-Q3.c" "Chapter 2/prime1.c" "Chapter 2/prime2.c"
-        "Chapter 2/dayofyear.c"
-        "Chapter 2/physical.c"
-        "Chapter 3/ssearch1.c"
-        "Chapter 3/ssearch1.c"
-        "Chapter 3/ssearch2.c"
-        "Chapter 3/search_sen.c"
-        "Chapter 3/bin_search.c"
-        "Chapter 3/bsearch1.c"
-        "Chapter 3/bsearch2.c"
-        "Chapter 3/kuku.c"
-        "Chapter 3/bsearch3.c"
-        "Chapter 4/IntStack.c"
-        "Chapter 4/IntStack.h" "Chapter 4/IntStackTest.c" "Chapter 4/IntQueue.c" "Chapter 4/IntQueue.h" "Chapter 4/IntQueueTest.c")
+        "Chapter01/Chapter1-1.c" "Chapter01/Chapter1-2.c" "Chapter01/Chapter1-Q1.c" "Chapter01/Chapter1-Q2.c" "Chapter01/Chapter1C-1.c" "Chapter01/sum_while.c" "Chapter01/sum_for.c" "Chapter01/Chapter1-Q8.c" "Chapter01/Chapter1-Q9.c" "Chapter01/sum_for_pos.c" "Chapter01/dbl_digits.c" "Chapter01/multi99table.c" "Chapter02/intary.c" "Chapter02/intary_init.c" "Chapter02/intdynamic.c" "Chapter02/intary_dynamic.c" "Chapter02/ary_max.c" "Chapter02/ary_max_rand.c" "Chapter02/rev_ary.c" "Chapter02/card_conv.c" "Chapter02/Chapter2-Q1.c" "Chapter02/Chapter2-Q2.c" "Chapter02/Chapter3-Q3.c" "Chapter02/prime1.c" "Chapter02/prime2.c"
+        "Chapter02/dayofyear.c"
+        "Chapter02/physical.c"
+        "Chapter03/ssearch1.c"
+        "Chapter03/ssearch1.c"
+        "Chapter03/ssearch2.c"
+        "Chapter03/search_sen.c"
+        "Chapter03/bin_search.c"
+        "Chapter03/bsearch1.c"
+        "Chapter03/bsearch2.c"
+        "Chapter03/kuku.c"
+        "Chapter03/bsearch3.c"
+        "Chapter04/IntStack.c"
+        "Chapter04/IntStack.h" "Chapter04/IntStackTest.c" "Chapter04/IntQueue.c" "Chapter04/IntQueue.h" "Chapter04/IntQueueTest.c"
+        "Chapter04/last.c"
+        Chapter05/factorial.c
+        Chapter05/euclid.c
+        Chapter05/recur.c)
