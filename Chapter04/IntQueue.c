@@ -1,7 +1,7 @@
 //
 // Created by Junghun Lee on 10/23/23.
 //
-
+/*
 #include <stdio.h>
 #include <stdlib.h>
 #include "IntQueue.h"
@@ -83,4 +83,4 @@ void Terminate(IntQueue *q) {
     if (q -> que != NULL)
         free(q -> que);
     q -> max = q -> num = q -> front = q -> rear = 0;
-}
+} */

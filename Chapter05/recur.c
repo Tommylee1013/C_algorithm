@@ -2,13 +2,16 @@
 // Created by Junghun Lee on 11/6/23.
 //
 
+/*
 #include <stdio.h>
 
 void recur(int n){
-    if (n > 0) {
-        recur(n - 1);
-        printf("%d\n", n);
-        recur(n - 2);
+    Top :
+        if (n > 0) {
+            recur(n - 1);
+            printf("%d\n", n);
+            n = n - 2;
+            goto Top;
     }
 }
 
@@ -19,3 +22,4 @@ int main(void) {
 
     return 0;
 }
+ */
