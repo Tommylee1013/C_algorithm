@@ -23,4 +23,8 @@ add_executable(C_algorithm
         Chapter05/euclid.c
         Chapter05/recur.c
         Chapter05/recur_nr2.c
-        Chapter05/IntStack.c)
+        Chapter05/IntStack.c
+        Chapter05/hanoi.c
+        Chapter05/hanoi.c
+        Chapter05/queen.c
+        Chapter05/queen_b.c)
