@@ -2,7 +2,7 @@
 // Created by Junghun Lee on 11/9/23.
 //
 #include <stdio.h>
-
+/*
 int flag[8];
 int pos[8];
 
@@ -38,3 +38,4 @@ int main(void) {
 
     return 0;
 }
+ */

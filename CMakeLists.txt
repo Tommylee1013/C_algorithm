@@ -27,4 +27,5 @@ add_executable(C_algorithm
         Chapter05/hanoi.c
         Chapter05/hanoi.c
         Chapter05/queen.c
-        Chapter05/queen_b.c)
+        Chapter05/queen_b.c
+        Chapter06/bubble1.c)
